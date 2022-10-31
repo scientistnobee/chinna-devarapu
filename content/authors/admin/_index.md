@@ -80,8 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chinna Devarapu completed his M.Sc. Physics from Banaras Hindu University and M. Tech in applied physics from Indian Institute of Technology from IIT Delhi. As part of his master’s thesis, he built a confocal microscope for direct laser lithography set-up at Technical University Berlin. Later he moved on to pursue a Ph.D. in Physics at University of Exeter in the UK. During his Ph.D., he investigated SiC photonic crystals and metamaterials to achieve near-perfect absorption in the infrared regime. Soon after his Ph.D., Chinna joined as a research fellow at nanophotonics group at University of St Andrews. While he was at St Andrews, he supervised students, received grants worth of £35000 and collaborated with industrial partners and world leading universities such as Stanford University. Currently, he is working at CAPPA with Dr. William Whelan-Curtin as a photonics researcher working on international projects DanCer and COSMICC and liaising with international partners and foundries such as Tyndall and LETI. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
