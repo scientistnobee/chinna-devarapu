@@ -3,8 +3,8 @@
 title: Alice Bighetti 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Ganga Chinna Rao
+last_name: Devarapu
 
 # Is this the primary user of the site?
 superuser: true
