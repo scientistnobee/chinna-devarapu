@@ -58,7 +58,7 @@ social:
       header: true
 
   - icon_pack: fas
-    link: https://scholar.google.com
+    link: https://scholar.google.com/citations?user=v5iO4roAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
