@@ -29,15 +29,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Physics
+      institution: University of Exeter
+      year: 2014
+    - course: MTech in Applied Optics
+      institution: Indian Institute of Technology
+      year: 2010
+    - course: MSc in Physics
+      institution: Banaras Hindu University
       year: 2008
+    - course: BSc in Science 
+      institution: Andhra University
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
