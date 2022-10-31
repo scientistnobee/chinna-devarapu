@@ -52,19 +52,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/chinnadevarapu
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: [https://scholar.google.co.uk/citations?user=v5iO4roAAAAJ]
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: [https://github.com/scientistnobee]
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: [https://www.linkedin.com/chinnadevarapu/]
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
