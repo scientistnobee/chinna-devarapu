@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Ganga Chinna Rao Devarapu 
 
 # Full name (for SEO)
 first_name: Ganga Chinna Rao
