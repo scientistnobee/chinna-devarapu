@@ -16,7 +16,7 @@ role: Researcher in Nanophotonics
 organizations:
   - name: Munster Technological University 
     url: https://www.cappa.ie/chinna-devarapu/
-
+  - name: Tyndall National Institute  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include silicon photonics, photonic crystals and biomedical devices.
 
