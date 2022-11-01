@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: done@example.org
-  phone: 888 888 88 88
+  email: chinna.devarapu'at'mtu.ie
+  phone: +353214335958
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Rossa Avenue
+    city: Bishopstown
+    region: Cork
+    postcode: T12P928
+    country: Ireland
+    country_code: IE
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/chinnadevarapu'
     - icon: video
       icon_pack: fas
       name: Zoom Me
