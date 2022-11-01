@@ -17,6 +17,7 @@ organizations:
   - name: Munster Technological University 
     url: https://www.cappa.ie/chinna-devarapu/
   - name: Tyndall National Institute  
+    url: https://www.ipic.ie/people/chinna-devarapu/
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include silicon photonics, photonic crystals and biomedical devices.
 
@@ -52,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/chinnadevarapu
     label: Follow me on Twitter
     display:
       header: true
