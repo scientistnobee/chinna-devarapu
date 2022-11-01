@@ -19,11 +19,11 @@ feature:
   - description: 90%
     icon: r-project
     icon_pack: fab
-    name: Nanofabrication
+    name: Project Management
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Project Management
+    name: Nanofabrication
   - description: 10%
     icon: camera-retro
     icon_pack: fas
