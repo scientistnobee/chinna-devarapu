@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chinnadevarapu/
+  - display:
+      header: false
+    icon: ai ai-google-scholar big-icon
+    link: https://scholar.google.com/citations?user=v5iO4roAAAAJ&hl=en
+    icon_pack: ai
 organizations:
   - name: Munster Technological University
     url: https://www.cappa.ie/chinna-devarapu/
