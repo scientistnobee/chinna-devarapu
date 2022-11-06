@@ -23,8 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Researcher 
-    company: Tyndall National Institute 
-    company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
     company: Munster Technological University 
     company_url: 'https://www.cappa.ie/chinna-devarapu/'
     company_logo: org-gc
@@ -34,9 +32,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Co-ordinate the efforts of MPW fabrication runs at Tyndall and foundries
-        * Laise with internal and external collaborations with academic and industrial partners
-        * Train new members of the team on cleanroom fabrication technologies 
+        * Commercilisation of research outcomes
+        * Manage design, simulation, fabrication and characterisation of photonic devices
+        * Laise with collaborators in academia and industry
+        * Train new members of the team on cleanroom fabrication technologies
+        * Communicate the research results with experts and non-experts 
 
   - title: Professor of Semiconductor Physics
     company: University X
