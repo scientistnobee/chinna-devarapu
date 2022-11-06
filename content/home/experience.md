@@ -38,14 +38,14 @@ experience:
         * Train new members of the team on cleanroom fabrication technologies
         * Communicate the research results with experts and non-experts 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Marie Skłodowska-Curie Research Fellow (Career-FIT)
+    company: Munster Technological University 
+    company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cork, Ireland.
+    date_start: '2018-05-01'
+    date_end: '2021-04-30'
+    description: During this MSCA fellowship, I developed a low-cost, compact 96 well microtiter plate reader for applications in biomedical and pharmaceutical industries. I managed the whole project independently as a principle investigator. As part of this project, I got opportunity to work at the premises of two industrial partners: Vario-Optics Ag (Switzerland) and Pilot Photonics Ltd. These opportunities have led me to work with cross-functional teams and generate IP that has been licensed to the Industrial partner.
 
 design:
   columns: '2'
