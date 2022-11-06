@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Scientist 
+    company: Tyndall National Institute 
+    company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Managing fabrication of photonic devices
+        * Training new members of the team
+        * Co-ordinate the efforts of MPW fabrication runs 
 
   - title: Professor of Semiconductor Physics
     company: University X
