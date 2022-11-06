@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Scientist 
+  - title: Researcher 
     company: Tyndall National Institute 
     company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2016-08-08'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Managing fabrication of photonic devices
-        * Training new members of the team
-        * Co-ordinate the efforts of MPW fabrication runs 
+        * Co-ordinate the efforts of MPW fabrication runs at Tyndall and foundries
+        * Laise with internal and external collaborations with academic and industrial partners
+        * Train new members of the team on cleanroom fabrication technologies 
 
   - title: Professor of Semiconductor Physics
     company: University X
