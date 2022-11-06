@@ -25,8 +25,10 @@ experience:
   - title: Researcher 
     company: Tyndall National Institute 
     company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
+    company: Munster Technological University 
+    company_url: 'https://www.cappa.ie/chinna-devarapu/'
     company_logo: org-gc
-    location: California
+    location: Cork, Ireland.
     date_start: '2016-08-08'
     date_end: ''
     description: |2-
