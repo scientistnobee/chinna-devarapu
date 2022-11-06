@@ -45,7 +45,14 @@ experience:
     location: Cork, Ireland.
     date_start: '2018-05-01'
     date_end: '2021-04-30'
-    description: During this MSCA fellowship, I developed a low-cost, compact 96 well microtiter plate reader for applications in biomedical and pharmaceutical industries. I managed the whole project independently as a principle investigator. As part of this project, I got opportunity to work at the premises of two industrial partners: Vario-Optics Ag (Switzerland) and Pilot Photonics Ltd. These opportunities have led me to work with cross-functional teams and generate IP that has been licensed to the Industrial partner.
+    description: |2-
+        Responsibilities include:
+        
+        * Managed the MSCA project independently as a principle investigator
+        * Developed an innovative solution for real-time growth monitoring of bacterial solutions 
+        * Internship at two industrial premises (Vario-Optics Ag and Pilot Photonics)
+        * Developed IP and licensed to industrial partners
+
 
 design:
   columns: '2'
