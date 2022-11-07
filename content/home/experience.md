@@ -71,7 +71,7 @@ experience:
 
   - title: PhD Fellow
     company: University of Exeter
-    company_url: 'https://ore.exeter.ac.uk/repository/browse?value=Devarapu%2C+Ganga+Chinna+Rao&type=author'
+    company_url: ''
     company_logo: org-x
     location: Exeter, United Kingdom.
     date_start: '2014-09-01'
@@ -85,7 +85,7 @@ experience:
 
 - title: Masters Thesis Student
     company: Technical University of Berlin
-    company_url: 'https://ore.exeter.ac.uk/repository/browse?value=Devarapu%2C+Ganga+Chinna+Rao&type=author'
+    company_url: ''
     company_logo: org-x
     location: TU Berlin, Germany.
     date_start: '2010-05-01'
