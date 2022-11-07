@@ -84,7 +84,7 @@ experience:
         * Developed theories (group velocity and energy velocity etc) to understand losyy photonic crystals 
 
 - title: Masters Thesis Student
-    company: University of Exeter
+    company: Technical University of Berlin
     company_url: 'https://ore.exeter.ac.uk/repository/browse?value=Devarapu%2C+Ganga+Chinna+Rao&type=author'
     company_logo: org-x
     location: TU Berlin, Germany.
