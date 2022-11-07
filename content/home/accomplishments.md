@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2021-01-01'
     description: Invention of the year award for year 2020
-    organization: organization: Munster Technological University 
+    organization: Munster Technological University 
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
