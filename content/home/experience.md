@@ -30,7 +30,6 @@ experience:
     date_start: '2016-08-08'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Commercilisation of research outcomes
         * Manage design, simulation, fabrication and characterisation of photonic devices
@@ -46,7 +45,6 @@ experience:
     date_start: '2018-05-01'
     date_end: '2021-04-30'
     description: |2-
-        Responsibilities include:
         
         * Managed the MSCA project independently as a principle investigator
         * Developed an innovative solution for real-time growth monitoring of bacterial solutions 
@@ -61,7 +59,6 @@ experience:
     date_start: '2014-10-01'
     date_end: '2016-08-08'
     description: |2-
-        Responsibilities include:
         
         * Managed Resonant Spectroscopy Lab
         * Developed etching recipies for several semiconductor materials (ex: SiC, a:Si)
@@ -77,11 +74,10 @@ experience:
     date_start: '2014-09-01'
     date_end: '2010-10-04'
     description: |2-
-        Responsibilities include:
         
         * Investigated how to make perfect absorbing materials out of highly reflecting materials
         * Studied semiconductor photonic crystals for their super refracting properties
-        * Developed theories (group velocity and energy velocity etc) to understand losyy photonic crystals 
+        * Developed theories (group velocity & energy velocity, etc) to understand losyy photonic crystals 
 
   - title: Masters Thesis Student
     company: Technical University of Berlin
@@ -94,8 +90,8 @@ experience:
         Responsibilities include:
         
         * Constructed a confocal microscope to fabricate waveguides inside a photo polymer
-        * Waveguides were fabricated and characterized by direct beam photo-lithographic technique
-        * The results were validated using various interferometric methods. 
+        * Waveguides were fabricated by direct beam photo-lithographic technique
+        * The waveguides were characterized using various interferometric methods
 
       
 design:
