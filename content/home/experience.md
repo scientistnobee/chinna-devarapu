@@ -77,7 +77,7 @@ experience:
         
         * Investigated how to make perfect absorbing materials out of highly reflecting materials
         * Studied semiconductor photonic crystals for their super refracting properties
-        * Developed theories (group velocity & energy velocity, etc) to understand losyy photonic crystals 
+        * Developed theories (group velocity & energy velocity, etc) for lossy photonic crystals 
 
   - title: Masters Thesis Student
     company: Technical University of Berlin
