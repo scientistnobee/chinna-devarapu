@@ -83,7 +83,7 @@ experience:
         * Studied semiconductor photonic crystals for their super refracting properties
         * Developed theories (group velocity and energy velocity etc) to understand losyy photonic crystals 
 
-- title: Masters Thesis Student
+  - title: Masters Thesis Student
     company: Technical University of Berlin
     company_url: ''
     company_logo: org-x
