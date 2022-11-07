@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher 
+  - title: Researcher Fellow
     company: Munster Technological University 
     company_url: 'https://www.cappa.ie/chinna-devarapu/'
     company_logo: org-gc
@@ -51,7 +51,7 @@ experience:
         * Interned at two industrial premises (Vario-Optics Ag and Pilot Photonics)
         * Developed intellectual property (Patents and IDFs) and licensed to industrial partners
 
-  - title: Research Fellow 
+  - title: Research 
     company: University of St Andrews 
     company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
     company_logo: org-x
