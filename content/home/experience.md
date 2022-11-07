@@ -63,12 +63,41 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Managed Resonant Spectroscopy lab
+        * Managed Resonant Spectroscopy Lab
         * Developed etching recipies for several semiconductor materials (ex: SiC, a:Si)
-        * Trained several new members of the team on electron beam lithography, Etching, SEM, etc
+        * Trained several members of the team on Electron Beam Lithography, Etching, SEM, etc
         * Taught labaratory courses in undergraduate physics labs
 
 
+  - title: PhD Fellow
+    company: University of Exeter
+    company_url: 'https://ore.exeter.ac.uk/repository/browse?value=Devarapu%2C+Ganga+Chinna+Rao&type=author'
+    company_logo: org-x
+    location: Exeter, United Kingdom.
+    date_start: '2014-09-01'
+    date_end: '2010-10-04'
+    description: |2-
+        Responsibilities include:
+        
+        * Investigated how to make perfect absorbing materials out of highly reflecting materials
+        * Studied semiconductor photonic crystals for their super refracting properties
+        * Developed theories (group velocity and energy velocity etc) to understand losyy photonic crystals 
+
+- title: Masters Thesis Student
+    company: University of Exeter
+    company_url: 'https://ore.exeter.ac.uk/repository/browse?value=Devarapu%2C+Ganga+Chinna+Rao&type=author'
+    company_logo: org-x
+    location: TU Berlin, Germany.
+    date_start: '2010-05-01'
+    date_end: '2009-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Constructed a confocal microscope to fabricate waveguides inside a photo polymer
+        * Waveguides were fabricated and characterized by direct beam photo-lithographic technique
+        * The results were validated using various interferometric methods. 
+
+      
 design:
   columns: '2'
 ---
