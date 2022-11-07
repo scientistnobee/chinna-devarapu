@@ -50,8 +50,23 @@ experience:
         
         * Managed the MSCA project independently as a principle investigator
         * Developed an innovative solution for real-time growth monitoring of bacterial solutions 
-        * Internship at two industrial premises (Vario-Optics Ag and Pilot Photonics)
-        * Developed IP and licensed to industrial partners
+        * Interned at two industrial premises (Vario-Optics Ag and Pilot Photonics)
+        * Developed intellectual property (Patents and IDFs) and licensed to industrial partners
+
+  - title: Research Fellow 
+    company: University of St Andrews 
+    company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
+    company_logo: org-x
+    location: St Andrews, United Kingdom.
+    date_start: '2014-10-01'
+    date_end: '2016-08-08'
+    description: |2-
+        Responsibilities include:
+        
+        * Managed Resonant Spectroscopy lab
+        * Developed etching recipies for several semiconductor materials (ex: SiC, a:Si)
+        * Trained several new members of the team on electron beam lithography, Etching, SEM, etc
+        * Taught labaratory courses in undergraduate physics labs
 
 
 design:
