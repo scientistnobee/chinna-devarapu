@@ -26,10 +26,10 @@ item:
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
-    description: Invention of the year award for year 2021
+    description: ''
     organization: Munster Technological University 
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Invention of the year award for year 2021
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: Invention of the year award for year 2020
     organization: Munster Technological University 
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: Invention of the year award for year 2020
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
