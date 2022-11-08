@@ -43,9 +43,17 @@ item:
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
-    organization: DataCamp
+    organization: Tyndall National Institute
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: 'Best Publication Award of the Year for 2019'
+    url: ''
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: 'Munster Technological University '
+    organization_url: https://www.datacamp.com
+    title: '2nd Prize at OPEN DATA HACKATHON'
     url: ''
 
 design:
