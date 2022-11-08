@@ -55,6 +55,32 @@ item:
     organization_url: https://www.datacamp.com
     title: '2nd Prize at OPEN DATA HACKATHON'
     url: ''
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: 'Enterprise Ireland'
+    organization_url: https://www.datacamp.com
+    title: 'Marie Skłodowska-Curie-Career FIT Fellowship'
+    url: ''
+    
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: 'Scottish Istitute for Enterprise'
+    organization_url: https://www.datacamp.com
+    title: 'Young Innovators Challenge Winner'
+    url: ''
+    
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: 'Deutscher Akademischer Austausch Dienst (DAAD)'
+    organization_url: https://www.datacamp.com
+    title: 'DAAD(Germany)-IIT Master Sandwich Scholarship'
+    url: ''
 
 design:
   columns: '2'
