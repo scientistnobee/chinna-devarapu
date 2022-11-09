@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: Biomedical
       tag: Deep Learning
-    - name: Other
+    - name: Nanophotonics
       tag: Demo
 
 design:
