@@ -1,7 +1,7 @@
 ---
  
 title: Innovative Water Monitoring
-summary: During this project, we equipped a small boat (buoy) with a Raman spectrometer to monitor the water quality. We focused primarily on two main research areas; i) real-time monitoring technology for the detection of pathogens in drinking and bathing water ii) real-time monitoring nutrients Nitrogen and Phosphorus (N&P) and calculating the assimilative capacity in watercourses `external_link`.
+summary: During this project, we equipped a small boat (buoy) with a Raman spectrometer to monitor the water quality. We focused primarily on two main research areas`:` i) real-time monitoring of pathogens in drinking and bathing water ii) real-time monitoring nutrients Nitrogen and Phosphorus (N&P).
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
