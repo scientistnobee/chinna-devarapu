@@ -40,7 +40,7 @@ experience:
   - title: Marie Skłodowska-Curie Research Fellow (Career-FIT)
     company: Munster Technological University 
     company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
-    company_logo: org-x
+    company_logo: MTUv1
     location: Cork, Ireland.
     date_start: '2018-05-01'
     date_end: '2021-04-30'
@@ -54,7 +54,7 @@ experience:
   - title: Research 
     company: University of St Andrews 
     company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
-    company_logo: org-x
+    company_logo: StAndrewsc1
     location: St Andrews, United Kingdom.
     date_start: '2014-10-01'
     date_end: '2016-08-08'
