@@ -4,6 +4,9 @@ name = "Minimal"
 [light]
   # Primary
   primary = "#1565c0"
+  
+  link = "#33b38d"
+  link_hover = "#33b38d"
 
   # Menu
   menu_primary = "#fff"
