@@ -82,7 +82,7 @@ experience:
   - title: Masters Thesis Student
     company: Technical University of Berlin
     company_url: ''
-    company_logo: org-x
+    company_logo: TUBerlin
     location: TU Berlin, Germany.
     date_start: '2010-05-01'
     date_end: '2009-08-01'
