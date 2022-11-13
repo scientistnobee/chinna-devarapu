@@ -25,7 +25,7 @@ experience:
   - title: Researcher Fellow
     company: Munster Technological University 
     company_url: 'https://www.cappa.ie/chinna-devarapu/'
-    company_logo: MTU_logo2
+    company_logo: MTU_logo2.jpeg
     location: Cork, Ireland.
     date_start: '2016-08-08'
     date_end: ''
