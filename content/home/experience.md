@@ -25,7 +25,7 @@ experience:
   - title: Researcher Fellow
     company: Munster Technological University 
     company_url: 'https://www.cappa.ie/chinna-devarapu/'
-    company_logo: MTUv1
+    company_logo: MTUv4
     location: Cork, Ireland.
     date_start: '2016-08-08'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Marie Skłodowska-Curie Research Fellow (Career-FIT)
     company: Munster Technological University 
     company_url: 'https://www.ipic.ie/people/chinna-devarapu/'
-    company_logo: MTUv1
+    company_logo: MTUv4
     location: Cork, Ireland.
     date_start: '2018-05-01'
     date_end: '2021-04-30'
