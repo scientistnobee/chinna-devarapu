@@ -69,7 +69,7 @@ experience:
   - title: PhD Fellow
     company: University of Exeter
     company_url: ''
-    company_logo: exeterv4
+    company_logo: Exeterv6
     location: Exeter, United Kingdom.
     date_start: '2014-09-01'
     date_end: '2010-10-04'
