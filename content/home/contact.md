@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: chinna.devarapu'at'mtu.ie
-  phone: 0214335958
+  phone: 021 433 59 58
   address:
     street: Rossa Avenue
     city: Bishopstown
