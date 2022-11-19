@@ -53,6 +53,22 @@ highlight_name: true
 first_name: Ganga Chinna Rao
 email: ""
 ---
-Chinna Devarapu completed M.Sc. Physics from Banaras Hindu University and M. Tech in applied physics from Indian Institute of Technology from IIT Delhi. As part of his master’s thesis, he built a confocal microscope for direct laser lithography set-up at Technical University Berlin. Later he moved on to pursue a Ph.D. in Physics at University of Exeter in the UK. During his Ph.D., he investigated SiC photonic crystals and metamaterials to achieve near-perfect absorption in the infrared regime. Soon after his Ph.D., Chinna joined as a research fellow at nanophotonics group at University of St Andrews. While he was at St Andrews, he supervised students, received grants worth of £35000 and collaborated with industrial partners and world leading universities such as Stanford University. Currently, he is working at CAPPA with Dr. William Whelan-Curtin as a photonics researcher working on international projects DanCer and COSMICC and liaising with international partners and foundries such as Tyndall and LETI. 
+Thanks for visiting my webste. I am Dr. Chinna Devarapu. I am from Andhrapradesh in India. 
+
+I fell in love with Science since childhood when I started to make demos for participating in science fairs. I am lucky to have a very supporting family, friends and particularly teachers who motivated me to puruse career in Science. 
+
+I completed M.Sc. Physics from Banaras Hindu University (India) and M. Tech in applied physics from Indian Institute of Technology from IIT Delhi (India).
+
+I recieved DAAD fellowship while I was in IIT Delhi to pursue my Master's thesis project from Technical Universuty, Berlin. During my time at TU Berlin,  I built a confocal microscope for direct laser lithography set-up to fabricate and characterise polymer waveguides.
+
+Later, I got an oppertunity to puruse Ph.D in Physics at University of Exeter in the UK. During my Ph.D., I investigated on lossy photonic crystals and metamaterials to achieve near-perfect absorption in the infrared regime. 
+
+Soon after my Ph.D., I joined as a research fellow at Nanophotonics group at University of St Andrews. In 2016, I moved to Ireland. Since then, I have been 
+working at Munster Technological University in Cork (Ireland) as a researcher in the Nanophotonics Research group. 
+
+So far, I recieved over $1 Million in research funding (>$600k as PI), published 12 research articles, I also have 4 patents and 8 Invention Disclosure Forms. 
+
+Currently, I am leading two commercilisation projects to bring research outputs from our research lab into the real world to solve really cool problems using light. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
