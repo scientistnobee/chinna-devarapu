@@ -59,12 +59,11 @@ I fell in love with Science since childhood when I started to make demos for par
 
 I completed M.Sc in Physics from Banaras Hindu University (India) and M. Tech in Applied Optics from Indian Institute of Technology Delhi (India).
 
-I recieved DAAD fellowship while I was in IIT Delhi to pursue my Master's thesis project from Technical Universuty, Berlin. During my time at TU Berlin,  I built a confocal microscope for direct laser lithography set-up to fabricate and characterise polymer waveguides.
+I recieved DAAD fellowship while I was in IIT Delhi to pursue my Master's thesis project from Technical Universuty, Berlin (Germany). During my time at TU Berlin,  I built a confocal microscope for direct laser lithography set-up to fabricate and characterise polymer waveguides.
 
-Later, I got an oppertunity to puruse Ph.D in Physics at University of Exeter in the UK. During my Ph.D., I investigated on lossy photonic crystals and metamaterials to achieve near-perfect absorption in the infrared regime. 
+Later, I got an oppertunity to puruse Ph.D in Physics at University of Exeter (UK). During my Ph.D., I investigated on lossy photonic crystals and metamaterials to achieve near-perfect absorption in the infrared regime. 
 
-Soon after my Ph.D., I joined as a research fellow at Nanophotonics group at University of St Andrews. In 2016, I moved to Ireland. Since then, I have been 
-working at Munster Technological University in Cork (Ireland) as a researcher in the Nanophotonics Research group. 
+Soon after my Ph.D., I joined as a research fellow at Nanophotonics group at University of St Andrews (UK). In 2016, I moved to Ireland. Since then, I have been working at Munster Technological University in Cork (Ireland) as a researcher in the Nanophotonics Research group. 
 
 So far, I recieved over $1 Million in research funding (>$600k as a PI), published 12 research articles, I also have 4 patents and 8 Invention Disclosure Forms. 
 
