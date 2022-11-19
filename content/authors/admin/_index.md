@@ -69,6 +69,8 @@ So far, I recieved over $1 Million in research funding (>$600k as a PI), publish
 
 Currently, I am leading two commercilisation projects to bring research outputs from our research lab into the real world to solve really cool problems using light. 
 
-My mission is to miniaturise bulky, costly benchtop equipment into low-cost, handheld instruments using Photonics Integrated Circuits. I also play with electronics, make apps, 3D-print objects to mainly build low-cost, open source hardware equipment.
+My mission is to miniaturise bulky, costly benchtop equipment into low-cost, handheld instruments using Photonics Integrated Circuits. 
+
+I also play with electronics, make apps, 3D-print objects to mainly build low-cost, open source hardware equipment as well as to build some cool robots.
   
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
