@@ -6,6 +6,7 @@ authors:
   - Liam O'Faolain
   - admin
 doi: 10.1109/ICTON.2017.8024926
+publication: 2017 19th International Conference on Transparent Optical Networks (ICTON)
 abstract: Dense WDM in the datacentre will be the next frontier for datacentre
   interconnects. Current silicon based transceivers are based on a single
   spatial multiplexed Distributed Feedback laser (DFB) and external silicon
