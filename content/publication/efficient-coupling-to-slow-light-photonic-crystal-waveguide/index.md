@@ -1,7 +1,7 @@
 ---
 title: Efficient coupling to slow light photonic crystal waveguide
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Md Shofiqul Islam Khan
   - admin
