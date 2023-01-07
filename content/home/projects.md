@@ -28,9 +28,9 @@ content:
     - name: All
       tag: '*'
     - name: Biomedical
-      tag: Deep Learning
+      tag: Biomedical
     - name: Nanophotonics
-      tag: Demo
+      tag: Nanophotonics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
