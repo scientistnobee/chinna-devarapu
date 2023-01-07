@@ -30,7 +30,8 @@ item:
     organization: Munster Technological University 
     organization_url: https://www.coursera.org
     title: Invention of the year award for year 2021
-
+    url: ''
+    
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
