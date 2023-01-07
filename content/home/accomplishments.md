@@ -48,8 +48,8 @@ item:
     organization: Tyndall National Institute
     organization_url: ''
     title: 'Best Publication Award of the Year for 2019'
-    url: ''
-  - certificate_url: https://www.datacamp.com
+    url: https://twitter.com/TyndallInstitut/status/1237368453402632192
+  - certificate_url: 
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
@@ -57,7 +57,7 @@ item:
     organization_url: ''
     title: '2nd Prize at OPEN DATA HACKATHON'
     url: ''
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: 
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
@@ -66,21 +66,21 @@ item:
     title: 'Marie Skłodowska-Curie-Career FIT Fellowship'
     url: ''
     
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: 
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
     organization: 'Scottish Istitute for Enterprise'
-    organization_url: https://www.datacamp.com
+    organization_url: 
     title: 'Young Innovators Challenge Winner'
     url: ''
     
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: 
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
     organization: 'Deutscher Akademischer Austausch Dienst (DAAD)'
-    organization_url: https://www.datacamp.com
+    organization_url: 
     title: 'DAAD(Germany)-IIT Master Sandwich Scholarship'
     url: ''
 
