@@ -8,7 +8,7 @@ external_link: ""
 
 title: "ODX: an ultraportable wireless continuous bacterial growth monitoring device."
 tags:
-  - Biomedical, ODX, bacterial growth monitoring
+  - Biomedical
 links:
   - icon: twitter
     icon_pack: fab
