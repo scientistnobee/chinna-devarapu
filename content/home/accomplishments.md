@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-05-31'
     description: ''
     organization: Munster Technological University 
     organization_url: 
@@ -35,15 +35,15 @@ item:
   
   - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2022-05-31'
     description: ''
     organization: Munster Technological University 
     organization_url: ''
     title: Invention of the year award for year 2020
     url: https://www.siliconrepublic.com/innovation/mtu-invention-awards-2021-kerry-joanna-tierney-cappa
   - certificate_url: ''
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: ''
+    date_start: '2020-03-10'
     description: ''
     organization: Tyndall National Institute
     organization_url: ''
@@ -58,8 +58,8 @@ item:
     title: '2nd Prize at OPEN DATA HACKATHON'
     url: ''
   - certificate_url: 
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: '2021-04-30'
+    date_start: '2018-05-01'
     description: ''
     organization: 'Enterprise Ireland'
     organization_url: ''
@@ -67,8 +67,8 @@ item:
     url: ''
     
   - certificate_url: 
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: ''
+    date_start: '2015-05-01'
     description: ''
     organization: 'Scottish Istitute for Enterprise'
     organization_url: 
@@ -76,8 +76,8 @@ item:
     url: ''
     
   - certificate_url: 
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: '2010-05-30'
+    date_start: '2009-09-01'
     description: ''
     organization: 'Deutscher Akademischer Austausch Dienst (DAAD), Germany'
     organization_url: 
