@@ -23,14 +23,14 @@ authors:
 author_notes: []
 publication: Seventh European Workshop on Optical Fibre Sensors, 2019, Limassol, Cyprus
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 title: Raman probe on chip
 doi: https://doi.org/10.1117/12.2541122
-featured: true
+featured: false
 tags: []
 projects: []
 image:
