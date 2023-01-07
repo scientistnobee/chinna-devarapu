@@ -1,41 +1,30 @@
 ---
-title: Example Project
+slides: example
+url_pdf: ""
 summary: An example of using the in-built project page.
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+url_slides: ""
+title: "ODX: an ultraportable wireless continuous bacterial growth monitoring device."
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+url_code: ""
 ---
+Bacterial growth measurement is important in a variety of industries and settings, including food processing, fermentation, and the production of biological products. There are various methods for measuring bacterial growth, including plate counting, direct counting, biomass measurement, and light scattering, but the gold standard is optical density measurement based on the scattering of light from bacterial cells. While spectrophotometers have traditionally been used for this purpose, they are costly, bulky, and require significant user interaction, making them less convenient and versatile.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In recent years, researchers have developed portable continuous bacterial growth monitoring devices based on optical density measurements, but these devices often require significant knowledge of sourcing materials and assembling them, and can cost upwards of $100. In order to overcome these challenges, we have developed ODX, an ultraportable, wireless, continuous bacterial growth measuring device that is capable of operating in any incubator-based setting and performing real-time, multi-parameter measurements of samples.  ODX is based on a commercially available fitness tracker and can be remotely controlled using a smartphone app with a user-friendly GUI for data visualization. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+ ODX is designed to be low-cost, easy to use, and convenient for scientists working with bacteria. The device consists of a fitness tracker, a wireless transmitter, and a receiver unit. The fitness tracker is placed in the incubator with the bacteria and measures the optical density of the sample in real-time. The wireless transmitter sends the data to the receiver unit, which can be located outside of the incubator. The receiver unit is connected to a computer or smartphone, allowing the user to remotely control  ODX and view the data in real-time.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+ ODX has several advantages over traditional methods of bacterial growth measurement. It is more convenient and easier to use than spectrophotometers, and it is also more portable and flexible, allowing it to be used in a variety of different settings. Additionally,  ODX is less expensive than other portable bacterial growth monitoring devices, making it more accessible to a wider range of researchers.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+ODX is an innovative device that has the potential to revolutionize the way scientists measure bacterial growth. Its low cost, ease of use, and portability make it an attractive option for researchers in a variety of industries and settings. We believe that  ODX has the potential to greatly improve the efficiency and accuracy of bacterial growth measurement, and we are excited to see how it will be used in the future.
