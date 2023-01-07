@@ -79,9 +79,9 @@ item:
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
-    organization: 'Deutscher Akademischer Austausch Dienst (DAAD)'
+    organization: 'Deutscher Akademischer Austausch Dienst (DAAD), Germany'
     organization_url: 
-    title: 'DAAD(Germany)-IIT Master Sandwich Scholarship'
+    title: 'DAAD-IIT Master Sandwich Scholarship'
     url: ''
 
 design:
