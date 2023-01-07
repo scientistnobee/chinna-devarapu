@@ -29,24 +29,24 @@ item:
     date_start: '2021-01-25'
     description: ''
     organization: Munster Technological University 
-    organization_url: https://www.coursera.org
+    organization_url: 
     title: Invention of the year award for year 2021
-    url: ''   
+    url: 'https://www.siliconrepublic.com/innovation/mtu-invention-awards-2021-kerry-joanna-tierney-cappa'   
   
-  - certificate_url: https://www.edx.org
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-01-01'
     description: ''
     organization: Munster Technological University 
-    organization_url: https://www.edx.org
+    organization_url: ''
     title: Invention of the year award for year 2020
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
+    url: https://www.siliconrepublic.com/innovation/mtu-invention-awards-2021-kerry-joanna-tierney-cappa
+  - certificate_url: ''
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
     organization: Tyndall National Institute
-    organization_url: https://www.datacamp.com
+    organization_url: ''
     title: 'Best Publication Award of the Year for 2019'
     url: ''
   - certificate_url: https://www.datacamp.com
@@ -54,7 +54,7 @@ item:
     date_start: '2020-07-01'
     description: ''
     organization: 'Munster Technological University '
-    organization_url: https://www.datacamp.com
+    organization_url: ''
     title: '2nd Prize at OPEN DATA HACKATHON'
     url: ''
   - certificate_url: https://www.datacamp.com
@@ -62,7 +62,7 @@ item:
     date_start: '2020-07-01'
     description: ''
     organization: 'Enterprise Ireland'
-    organization_url: https://www.datacamp.com
+    organization_url: ''
     title: 'Marie Skłodowska-Curie-Career FIT Fellowship'
     url: ''
     
