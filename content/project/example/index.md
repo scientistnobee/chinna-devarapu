@@ -1,11 +1,11 @@
 ---
-slides: example
+
 url_pdf: ""
 summary: Continuous monitoring of bacterial growth in aqueous media is essential in various fields, but current methods using benchtop spectrophotometers are limited by their large size and require labor-intensive multiple samplings. To address these issues, we have developed an optical density measuring device (ODX) based on a generic fitness tracker. ODX is ultra-portable, low-cost, and can be used in bacterial incubators for real-time monitoring, even while shaking is in progress. We have tested ODX with different bacterial types and growth conditions and found that it performs comparably to a commercial benchtop spectrophotometer. We have also developed a smartphone application that allows users to be notified when bacterial concentrations reach targeted values. With its potential for automation and mass production, ODX has numerous potential applications in biotechnology research and industry.
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
-url_slides: ""
+
 title: "ODX: an ultraportable wireless continuous bacterial growth monitoring device."
 tags:
   - Biomedical, ODX, bacterial growth monitoring
