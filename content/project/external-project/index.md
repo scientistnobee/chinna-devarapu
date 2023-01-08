@@ -1,5 +1,5 @@
 ---
- 
+url_pdf: "https://www.epa.ie/publications/research/epa-research-2030-reports/Research_Report_380.pdf"
 title: Innovative Water Monitoring
 summary: During this project, we equipped a small boat (buoy) with a Raman spectrometer to monitor the water quality. We focused primarily on two main research areas`:` i) real-time monitoring of pathogens in water ii) real-time monitoring nutrients Nitrogen and Phosphorus (N&P) in water.
 tags:
