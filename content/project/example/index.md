@@ -15,7 +15,7 @@ links:
     name: Follow
     url: https://twitter.com/chinnadevarapu
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ODX, a fitness tracker based optical device for monitoring bacterial growth 
   focal_point: Smart
 url_code: ""
 ---
