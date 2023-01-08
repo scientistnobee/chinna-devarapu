@@ -53,24 +53,17 @@ highlight_name: true
 first_name: Ganga Chinna Rao
 email: ""
 ---
-Thanks for visiting my webste. I am Dr. Chinna Devarapu.
+Welcome to my website! My name is Dr. Chinna Devarapu, and I am a researcher in the field of nanophotonics.
 
-I fell in love with Science since childhood when I started to make demos for participating in Science fairs. I am lucky to have a very supporting family, friends and particularly teachers who motivated me to puruse career in Science. 
+I have always been fascinated by science and technology, and that passion led me to pursue career in Science. I received my M.Sc. in Physics from Banaras Hindu University and my M. Tech in Applied Optics from the Indian Institute of Technology Delhi. While at IIT Delhi, I received a DAAD fellowship to complete my Master's thesis project at the Technical University of Berlin. During this time, I developed a confocal microscope for use in direct laser lithography.
 
-I completed M.Sc in Physics from Banaras Hindu University (India) and M. Tech in Applied Optics from Indian Institute of Technology Delhi (India).
+I continued my education with a Ph.D. in Physics at the University of Exeter, where I focused on lossy photonic crystals and metamaterials for near-perfect absorption in the infrared regime. After completing my Ph.D., I joined the Nanophotonics group at the University of St Andrews as a research fellow. In 2016, I moved to Cork, Ireland, where I currently work as a researcher in the Nanophotonics Research group at Munster Technological University.
 
-I recieved DAAD fellowship while I was in IIT Delhi to pursue my Master's thesis project from Technical Universuty, Berlin (Germany). During my time at TU Berlin,  I built a confocal microscope for direct laser lithography set-up to fabricate and characterise polymer waveguides.
+Throughout my career, I have received over $1 million  ($600,000 as a PI) in research funding. I have published 12 research articles, and hold 4 patents and 8 invention disclosure forms.
 
-Later, I got an oppertunity to puruse Ph.D in Physics at University of Exeter (UK). During my Ph.D., I investigated on lossy photonic crystals and metamaterials to achieve near-perfect absorption in the infrared regime. 
+Currently, I am leading two commercialization projects that aim to bring the research outputs from our lab into the real world to solve interesting problems using light. My goal is to miniaturize bulky, expensive benchtop equipment into low-cost, handheld instruments using photonics integrated circuits.
 
-Soon after my Ph.D., I joined as a research fellow at Nanophotonics group at University of St Andrews (UK). In 2016, I moved to Ireland. Since then, I have been working at Munster Technological University in Cork (Ireland) as a researcher in the Nanophotonics Research group. 
+In my free time, I enjoy experimenting with electronics, building apps, and 3D printing objects. I also like to create low-cost, open-source hardware equipment and build cool robots.
 
-So far, I recieved over $1 Million in research funding (>$600k as a PI), published 12 research articles, I also have 4 patents and 8 Invention Disclosure Forms. 
-
-Currently, I am leading two commercilisation projects to bring research outputs from our research lab into the real world to solve really cool problems using light. 
-
-My mission is to miniaturise bulky, costly benchtop equipment into low-cost, handheld instruments using Photonics Integrated Circuits. 
-
-I also play with electronics, make apps, 3D-print objects to mainly build low-cost, open source hardware equipment as well as to build some cool robots.
   
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
