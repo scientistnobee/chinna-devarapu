@@ -1,5 +1,5 @@
 ---
-title: Pixcan
+title: PixCan
 date: 2023-01-08T19:22:05.324Z
 draft: false
 featured: false
