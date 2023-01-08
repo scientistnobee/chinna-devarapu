@@ -51,7 +51,7 @@ superuser: true
 last_name: Devarapu
 highlight_name: true
 first_name: Ganga Chinna Rao
-email: ""
+email: "chinna.devarapu'at'mtu.ie"
 ---
 Welcome to my website! My name is Dr. Chinna Devarapu, and I am a researcher in the field of nanophotonics.
 
