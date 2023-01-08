@@ -9,10 +9,12 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/chinnadevarapu
+    url: https://twitter.com/ChinnaDevarapu/status/1531358959902330881
 image:
   filename: featured
   focal_point: Smart
+  
+exeternal_link: https://twitter.com/ChinnaDevarapu/status/1531358959902330881
   
 url_code: ""
 ---
