@@ -73,4 +73,4 @@ My mission is to miniaturise bulky, costly benchtop equipment into low-cost, han
 
 I also play with electronics, make apps, 3D-print objects to mainly build low-cost, open source hardware equipment as well as to build some cool robots.
   
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
