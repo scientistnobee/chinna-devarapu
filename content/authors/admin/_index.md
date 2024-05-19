@@ -53,7 +53,7 @@ highlight_name: true
 first_name: Ganga Chinna Rao
 email: "chinna.devarapu'at'mtu.ie"
 ---
-Welcome to my website! My name is Dr. Chinna Devarapu, and I am a researche fellow in the field of nanophotonics.
+Welcome to my website! My name is Dr. Chinna Devarapu, and I am a research fellow in the field of nanophotonics.
 
 I have always been fascinated by science and technology, and that passion led me to pursue career in Science. I received my M.Sc. in Physics from Banaras Hindu University and my M. Tech in Applied Optics from the Indian Institute of Technology Delhi. While at IIT Delhi, I received a DAAD fellowship to complete my Master's thesis project at the Technical University of Berlin. During this time, I developed a confocal microscope for use in direct laser lithography.
 
